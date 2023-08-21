@@ -3,23 +3,32 @@
 #
 ## Ferramentas e Tecnologias
 <p align="center">
-    <h3>Backend</h3>
-    <a href="#">
-        <img src="https://skillicons.dev/icons?i=php,java,py,c,postgresql" title="https://skillicons.dev/"/>
-    </a>
+    <h3>Linguagens</h3>
+    <p align="center">
+        <h4>Backend</h4>
+        <a href="#">
+            <img src="https://skillicons.dev/icons?i=php,java,py,c,cs,cpp" title="PHP, Java, Python, C, C#, C++"/>
+        </a>
+    </p>
+    <p align="center">
+        <h4>Frontend</h4>
+        <a href="#">
+            <img src="https://skillicons.dev/icons?i=js,jquery,html,css,tailwind" title="Javascript, Jquery, HTML, CSS, Tailwind"/>
+        </a>
+    </p>
 </p>
-
+    
 <p align="center">
-    <h3>Frontend</h3>
+    <h3>Banco de Dados</h3>
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=js,jquery,html,css,tailwind" title="https://skillicons.dev/"/>
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql" title="Postgresql, MySQL"/>
     </a>
 </p>
 
 <p align="center">
     <h3>Ferramentas</h3>
     <a href="#">
-        <img src="https://skillicons.dev/icons?i=git,github,postman,idea,linux,vscode" title="https://skillicons.dev/"/>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,idea,linux,vscode,visualstudio" title="Git, Github, Postman, Intellij IDEA, Linux, Visual Studio Code, Visual Studio"/>
     </a>
 </p>
 
@@ -40,7 +49,6 @@
 </picture>
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mtztrainder2222&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #
 ## Redes sociais
