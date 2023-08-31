@@ -35,20 +35,49 @@
 
 #
 ## Realizações
+<p>
+    
 <picture>
   <source
+      width=472
     srcset="https://github-readme-stats.vercel.app/api?username=Mtztrainder&show_icons=true&theme=dark&api_domain="
     media="(prefers-color-scheme: dark)"
   />
   <source
+      width=472
     srcset="https://github-readme-stats.vercel.app/api?username=Mtztrainder&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Mtztrainder&show_icons=true" />
+  <img width=472 height=195 src="https://github-readme-stats.vercel.app/api?username=Mtztrainder&show_icons=true" />
 </picture>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mtztrainder2222&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+   <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+    <img height=197 src="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320" />
+</picture>
+    
+<picture>
+  <source
+      width=472 heigth=195
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Mtztrainder2222&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+      width=472 heigth=195
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Mtztrainder2222&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  
+  <img width=472 heigth=195 src="https://github-readme-stats.vercel.app/api/wakatime?username=Mtztrainder2222" />
+</picture>
+</p>
 
 #
 ## Redes sociais
