@@ -53,14 +53,14 @@
 
 <picture>
    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=dark&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=light"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=light&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-    <img height=197 src="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320" />
+    <img height=197 src="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less,less" />
 </picture>
     
 <picture>
