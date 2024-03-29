@@ -40,27 +40,27 @@
 <picture>
   <source
       width=472
-    srcset="https://github-readme-stats.vercel.app/api?username=Mtztrainder&show_icons=true&theme=dark&api_domain="
+    srcset="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaSalvador&show_icons=true&theme=dark&api_domain="
     media="(prefers-color-scheme: dark)"
   />
   <source
       width=472
-    srcset="https://github-readme-stats.vercel.app/api?username=Mtztrainder&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaSalvador&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width=472 height=195 src="https://github-readme-stats.vercel.app/api?username=Mtztrainder&show_icons=true" />
+  <img width=472 height=195 src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosaSalvador&show_icons=true" />
 </picture>
 
 <picture>
    <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=dark&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBarbosaSalvador&layout=donut&card_width=320&theme=dark&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&theme=light&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBarbosaSalvador&layout=donut&card_width=320&theme=light&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-    <img height=197 src="https://github-readme-stats.vercel.app/api/top-langs?username=mtztrainder&layout=donut&card_width=320&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less,less" />
+    <img height=197 src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBarbosaSalvador&layout=donut&card_width=320&size_weight=0.3&count_weight=0.3&hide=html,css,scss,less,less" />
 </picture>
     
 <picture>
