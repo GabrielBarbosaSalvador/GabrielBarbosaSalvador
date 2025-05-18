@@ -13,7 +13,7 @@
     <p align="center">
         <h4>Frontend</h4>
         <a href="#">
-            <img src="https://skillicons.dev/icons?i=js,jquery,html,css,tailwind,react,nextjs" title="Javascript, Jquery, HTML, CSS, Tailwind, React, Nextjs"/>
+            <img src="https://skillicons.dev/icons?i=js,jquery,html,css,tailwind,react,nextjs,ts" title="Javascript, Jquery, HTML, CSS, Tailwind, React, Nextjs, Typescript"/>
         </a>
     </p>
 </p>
